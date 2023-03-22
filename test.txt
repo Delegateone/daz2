@@ -1,3 +1,16 @@
 Hello
 Is it me you're looking for
+<<<<<<< HEAD
 i can see it in your eyes
+=======
+<<<<<<< HEAD
+I wonder where you are
+and I wonder what you do
+Are you somewhere feeling lonely
+=======
+I can see it in your eyes
+this is fred
+hi, i'm jim
+sheila is around here somewherw
+>>>>>>> 9dd7d86733b44a54c05dfa597641e9151dcddaa1
+>>>>>>> 88d0b40788a67ec5e6851cf3789570e662590427
